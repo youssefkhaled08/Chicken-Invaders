@@ -1,0 +1,1585 @@
+﻿  Main.cpp
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Bullet.h(23,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(44,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(44,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(61,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(61,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(65,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(69,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(86,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(86,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(97,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(98,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(113,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(113,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(117,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Weapon.h(121,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Player.h(180,1): warning C4244: '+=': conversion from 'float' to '__int64', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Enemy.h(50,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Enemy.h(125,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Enemy.h(133,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Enemy.h(144,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Enemy.h(177,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Enemy.h(210,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\MainVariables.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\MainVariables.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\MainVariables.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\startButton.h(23,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\startButton.h(24,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\startButton.h(25,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\startButton.h(26,21): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(8,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(8,46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(8,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(31,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(31,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(37,53): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(38,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(38,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(56,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(58,28): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(63,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(65,42): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(87,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(103,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(103,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(116,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\WinOrLose.h(118,42): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(63,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(77,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(124,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(127,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(164,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(281,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(294,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(303,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(325,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(349,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(354,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(377,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(378,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(382,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(382,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(383,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(383,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(438,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(440,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(491,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(493,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(520,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(522,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(528,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(528,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(580,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(620,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(620,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(620,91): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(620,141): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(620,191): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(627,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(635,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(640,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(643,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(661,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(667,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(668,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(700,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(809,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(851,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(893,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(901,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(942,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(945,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1068,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1081,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1090,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1112,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1136,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1141,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1164,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1165,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1169,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1169,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1170,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1170,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1225,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1227,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1278,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1280,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1307,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1309,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1315,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1315,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1367,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1408,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1408,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1408,91): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1408,141): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1408,191): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1415,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1423,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1428,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1431,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1449,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1455,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1456,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1528,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1570,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1612,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1682,89): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1696,89): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1706,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1719,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1719,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1745,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1748,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1772,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1777,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1800,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1801,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1805,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1805,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1806,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1806,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1860,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1862,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1913,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1915,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1942,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1944,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1950,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1950,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2002,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2041,16): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2042,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2042,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2042,91): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2042,141): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2042,191): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2048,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2056,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2061,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2064,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2082,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2088,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2089,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2116,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2120,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2133,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(2142,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level3.h(1732,9): warning C4101: 'evnt': unreferenced local variable
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(74,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(87,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(128,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(132,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(156,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(161,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(184,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(185,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(189,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(189,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(190,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(190,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(249,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(251,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(302,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(304,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(331,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(333,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(339,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(339,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(391,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(431,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(431,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(431,89): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(438,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(446,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(451,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(454,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(472,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(478,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(479,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(502,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(551,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(551,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(556,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(556,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(561,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(561,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(566,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(566,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(571,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(571,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(590,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(603,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(612,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(782,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(785,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(809,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(814,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(837,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(838,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(842,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(842,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(843,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(843,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(902,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(904,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(955,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(957,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(984,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(986,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(992,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(992,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1044,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1084,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1084,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1084,89): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1091,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1099,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1104,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1107,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1125,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1131,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1132,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1156,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1216,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1229,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1238,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1349,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1352,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1376,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1381,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1404,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1405,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1409,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1409,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1410,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1410,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1465,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1467,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1518,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1520,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1547,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1549,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1555,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1555,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1610,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1610,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1610,89): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1617,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1625,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1630,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1633,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1651,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1657,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1658,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1682,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1742,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1755,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1764,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1858,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1899,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1904,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(1993,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2017,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2026,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2050,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2074,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2079,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2102,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2103,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2107,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2107,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2108,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2108,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2167,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2169,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2220,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2222,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2249,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2251,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2257,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2257,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2309,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2348,12): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2348,39): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2348,90): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2348,140): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2348,190): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2355,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2363,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2368,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2371,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2389,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2395,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level2.h(2396,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(62,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(76,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(89,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(120,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(123,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(147,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(152,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(175,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(176,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(180,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(180,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(181,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(181,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(236,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(238,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(289,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(291,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(318,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(320,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(326,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(326,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(381,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(381,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(381,91): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(381,141): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(381,191): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(387,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(395,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(400,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(403,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(421,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(427,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(428,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(453,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(488,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(491,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(504,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(513,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(107,9): warning C4101: 'evnt': unreferenced local variable
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(578,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(582,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(601,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(605,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(623,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(627,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(661,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(664,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(688,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(693,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(716,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(717,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(721,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(721,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(722,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(722,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(781,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(783,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(834,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(836,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(863,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(865,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(871,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(871,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(922,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(962,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(962,40): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(962,91): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(962,141): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(962,191): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(969,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(977,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(982,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(985,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1003,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1009,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1010,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1033,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1038,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1051,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1060,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(648,9): warning C4101: 'evnt': unreferenced local variable
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1172,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1175,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1199,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1204,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1227,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1228,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1232,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1232,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1233,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1233,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1292,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1294,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1345,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1347,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1374,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1376,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1382,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1382,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1434,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1483,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1491,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1496,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1499,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1517,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1523,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1524,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1547,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1623,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1624,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1626,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1633,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1651,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Level1.h(1660,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(23,73): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(23,131): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(23,204): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(23,274): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(23,339): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(23,406): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(69,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(126,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(134,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(156,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(164,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(188,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(188,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(210,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(210,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(216,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(216,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(219,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(219,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(228,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(228,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(231,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(231,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(234,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(234,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(241,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(241,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(247,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(247,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(248,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(248,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(254,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(254,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(259,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(259,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(260,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(260,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(265,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(265,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(272,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(272,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(276,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(276,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(289,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(289,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(293,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(293,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(618,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(618,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(622,87): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(622,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(626,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(626,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(631,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(631,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(636,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(636,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(644,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(644,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(652,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(666,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(666,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(674,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(674,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(682,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(682,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(691,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(700,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(700,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(709,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(709,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(716,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(716,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(723,87): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(723,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(729,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(729,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(737,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(737,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(745,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(745,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(758,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(771,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(783,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(795,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(818,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(818,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(982,24): warning C4018: '<': signed/unsigned mismatch
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(1064,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(1065,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\Main.cpp(827,20): warning C4101: 'score': unreferenced local variable
+D:\Programing\Team Project\Chicken Invaders\Chicken Invaders\players_window.h(75): warning C4715: 'solo': not all control paths return a value
+  Chicken Invaders.vcxproj -> D:\Programing\Team Project\Chicken Invaders\Debug\Chicken Invaders.exe
