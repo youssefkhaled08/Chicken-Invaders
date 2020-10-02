@@ -20,4 +20,4 @@ A Simple Version of *Chicken Invaders* Implemented Using C++ and SFML.
 
 ## This Project Won "Sructured Programming Best Project Award 2020" offered by FCIS-ASU & IBM:
 
-![SP Best Project Award 2020](SP Best Project Award 2020.jpg "SP Best Project Award 2020")
+![alt text](https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view)
