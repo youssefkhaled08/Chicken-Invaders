@@ -2,7 +2,7 @@
 
 A Simple Version of *Chicken Invaders* Implemented Using C++ and SFML.
 
-#Features:
+# Features:
 
 - Multi-Player.
 - 3 Levels With 3 Levels Of Difficulty.
