@@ -9,7 +9,7 @@ A Simple Version of *Chicken Invaders* Implemented Using C++ and SFML.
 - 3 Types of Weapons Which Can be Upgraded.
 - Leaderboard For Highscores.
 
-# This Project was created by team "YP6" in the Structured Programming course offered by Faculty of Computer and Information Sciences - Ain Shams University:-
+## This Project was created by team "YP6" in the Structured Programming course offered by Faculty of Computer and Information Sciences - Ain Shams University:-
 
 - Youssef Khaled Abduallah.
 - Youssef Ashraf Eisa.
@@ -18,5 +18,5 @@ A Simple Version of *Chicken Invaders* Implemented Using C++ and SFML.
 - Youssef Eid Ramadan.
 - Youssef Khaled Farouk.
 
-# This Project Won "Sructured Programming Best Project Award 2020" offered by FCIS-ASU & IBM:
-![alt text](https://drive.google.com/file/d/1UDQFXonXAxsPL3q6idIhIISUdGAjYS46/view)
+## This Project Won "Sructured Programming Best Project Award 2020" offered by FCIS-ASU & IBM:
+
