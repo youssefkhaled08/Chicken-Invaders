@@ -6,8 +6,8 @@ A Simple Version of **Chicken Invaders** Implemented Using C++ and SFML.
 # Features:
 
 - Multi-Player.
-- 3 Levels With 3 Levels Of Difficulty.
-- 3 Types of Weapons Which Can be Upgraded.
+- 9 Waves.
+- 6 Types of Weapons Which Can be Upgraded.
 - Leaderboard For Highscores.
 
 
