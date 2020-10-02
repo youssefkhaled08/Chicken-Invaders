@@ -13,7 +13,7 @@ A Simple Version of **Chicken Invaders** Implemented Using C++ and SFML.
 
 ## This Project was created by team "YP6" in the Structured Programming course offered by Faculty of Computer and Information Sciences - Ain Shams University:-
 
-- Youssef Khaled Abduallah.
+- Youssef Khaled Abdallah.
 - Youssef Ashraf Eisa.
 - Youssef Maged Habib.
 - Youssef Omar Hussein.
